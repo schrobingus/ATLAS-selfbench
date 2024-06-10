@@ -1,0 +1,202 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find the result of (40/4)+9-2 -1"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Simplify 2x + 3y - (4x - 5y)"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Educate a patient about managing diabetes through diet and exercise."
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find the derivative of the function f(x) = 3x^2 - 2x + 5"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you buy 5 apples at 40 cents each, 3 loaves of bread at $2.10 each, and 2 cartons of milk at each $3.25, and you have a coupon for a $1.50 discount on the total purchase, how much do you spend in total?"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a short story about a character who discovers an old, mysterious book that grants them extraordinary powers."
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Solve the quadratic equation x^2 - 4x + 3 = 0 for its roots"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How does climate change impact biodiversity in marine ecosystems?"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare and contrast classical conditioning and operant conditioning in psychology."
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Calculate the Result of 4x5 - 1 + 10"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find the area of a triangle with a base of 8 units and a height of 6 units."
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the geographical features that make the Amazon rainforest unique."
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain how Newton's third law of motion is demonstrated when a balloon is released and flies around."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the process of blood clotting in the human body."
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the phenomenon of total internal reflection and its applications."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the relationship between force, mass, and acceleration as detailed by Newton's second law."
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the role of vitamins in maintaining optimal health and preventing diseases."
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the significance of regular health check-ups in early disease detection and prevention."
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If a shirt costs $20 and there's a 10% discount, how much will you pay?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the area of a rectangle with a length of 5 units and a width of 3 units?"
+      }
+    ]
+  }
+]

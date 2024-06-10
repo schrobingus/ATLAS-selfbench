@@ -1,0 +1,202 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If x and y are the tens digit and the units digit, respectively, of the product 725,278 * 67,066, what is the value of x + y? Explain the easiest solution without calculating the whole number."
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If a giraffe has two eyes, a monkey has two eyes, and an elephant has two eyes, how many eyes do we have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the total number of a\u2019s and b\u2019s in this string?\n given string: \"a B a a a c b b a b b a B B bb c a d e a b b b b b b b b b b b d a a a a a d f g a a d A A B B B \""
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many \"s\" in \"bananas\"?"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you replaced the thymine in a double helix with radioactive thymine and allowed DNA replication to occur once, which of the following results would you expect? Choices: A: The DNA would not be radioactive in either of the double helices. B: The mRNA made from the double helices would be radioactive. C: The DNA in each of the double helices would be radioactive. D: The DNA in one of the double helices would be radioactive but not in the other one"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Mable\u2019s heart rate at 9 AM was 75 bpm and her blood pressure at 7 PM was 120/80. She died at 11 PM. Was she alive at noon?"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Write a response that includes the number of words in your response."
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Baez has 25 marbles. She loses 20% of them one day. Then a friend sees her and gives her double the amount that Baez has after she lost them. How many marbles does Baez end up with?"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a country where everyone is identical, 100 people wait in line each day to buy raspberries at a controlled price. The government has decided to hand out free coffee to the people standing in line. The coffee costs the government $1 per cup, but the people in line value that coffee at only 75 cents per cup. What is the social cost of providing the coffee?"
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Seven cards are placed on the table, each of which has a number on one side and a single-colored patch on the other side. The faces of the cards are 3, 8, red, and yellow. Which cards would you have to turn to test the truth of the proposition that if a card shows an even number on one face, then the opposite face is red?"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the smallest positive integer solution to \\( \\left( \\frac{100,000,000}{x^4} \\right) < 1 \\)?"
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The greatest common divisor of positive integers m and n is 6.\n The least common multiple of m and n is 126. What is the least possible value of m + n?"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Let k(u) = u**2+u-4. Find k (0)."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Solve 4 - 4 - 4 = 188*m for m"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Suppose \\( a \\) and \\( b \\) are positive real numbers with \\( a > b \\) and \\( ab = 8 \\). Find the minimum value of \\( \\frac{a^2 + b^2}{a - b} \\)."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "where is the letter r in the word blueberry?"
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Sally (a girl) has 4 brothers. Each brother has 3 sisters. How many sisters does Sally have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does Gordon Ramsey know about solubility?"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is Canada south of the Arctic Ocean?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When using the Porter stemmer, how does the word \"computational \" get stemmed?"
+      }
+    ]
+  }
+]

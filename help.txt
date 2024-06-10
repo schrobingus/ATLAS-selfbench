@@ -1,0 +1,13 @@
+ATLAS Self-Benchmark by Brent Monning
+ -h: Brings up the help panel. 
+ -i: Selects the input data directory. This, by default, is
+     set to the 'data' directory in the ATLAS submodule.
+ -o: Selects the output data directory. This is set to
+     'output' in this repository. A new directory is
+     created if one does not exist.
+ -p: Selects the principle numbers you want to use. These, 
+     by the default submodule included, goes from principle 1 
+     to principle 26.
+ -c: Selects the categories you want to use. By default, this
+     only includes "boosting" and "correctness" respectively.
+ -m: Selects the models you want to use.

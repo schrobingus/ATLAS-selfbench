@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_1",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Subtract 3 from 8. First, start with 8, then subtract 3. The result is 5.\"\nExample 2: \"Subtract 6 from 10. First, start with 10, then subtract 6. The result is 4.\"\nMain Question: \"Subtract 7 from 15. First, start with 15, then subtract 7. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_25",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_26",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_27",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_29",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_30",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_31",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_32",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_33",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_34",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a train travels 300 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 300 km / 3 hours = 100 km/h.\"\nExample 2: \"If a car travels 240 kilometers in 4 hours, what is its speed? Speed is distance divided by time, so 240 km / 4 hours = 60 km/h.\"\nMain Question: \"If a bicycle travels 90 kilometers in 3 hours, what is its speed? Speed is distance divided by time, so 90 km / 3 hours = 30 km/h.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_50",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_51",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_52",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_53",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_54",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_55",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_57",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_58",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_59",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 5 meters to centimeters. There are 100 centimeters in a meter, so 5 meters is 500 centimeters.\"\nExample 2: \"Convert 2 meters to centimeters. There are 100 centimeters in a meter, so 2 meters is 200 centimeters.\"\nMain Question: \"Convert 3 meters to centimeters. There are 100 centimeters in a meter, so 3 meters is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_75",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_76",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_78",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_79",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_80",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_81",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_82",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_83",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the sum of the angles in a triangle? A triangle has three angles. The sum of the angles in any triangle is 180 degrees because it is calculated by (n-2) * 180\u00b0, where n is the number of sides. For a triangle, n = 3, so (3-2) * 180\u00b0 = 180\u00b0.\"\nExample 2: \"What is the sum of the angles in a square? A square has four angles. The sum of the angles in any quadrilateral is 360 degrees, calculated as (n-2) * 180\u00b0, where n is the number of sides. For a square, n = 4, so (4-2) * 180\u00b0 = 360\u00b0.\"\nMain Question: \"What is the sum of the angles in a pentagon? A pentagon has five angles. The sum of the angles in a pentagon is calculated as (n-2) * 180\u00b0, where n is the number of sides. For a pentagon, n = 5, so (5-2) * 180\u00b0 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_100",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_101",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_102",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_103",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_104",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_106",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_107",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_108",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_109",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 3 cats and buy 2 more, how many cats do I have? Start with 3 cats, and add 2 more. You have 5 cats.\"\nExample 2: \"If I have 4 dogs and get another, how many dogs do I have? Start with 4 dogs, and add 1 more. You have 5 dogs.\"\nMain Question: \"If I have 6 birds and get 2 more, how many birds do I have? Start with 6 birds, and add 2 more. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_125",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_127",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_128",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_129",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_130",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_131",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_132",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_134",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the square of 2? To square a number, multiply it by itself: 2 * 2 = 4.\"\nExample 2: \"What is the square of 3? To square a number, multiply it by itself: 3 * 3 = 9.\"\nMain Question: \"What is the square of 5? To square a number, multiply it by itself: 5 * 5 =...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_150",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_151",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_152",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_153",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_154",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_155",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_156",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_157",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_158",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_159",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If today is Monday, what day is it in 4 days? Today is Monday, in 4 days it will be Friday.\"\nExample 2: \"If today is Wednesday, what day is it in 3 days? Today is Wednesday, in 3 days it will be Saturday.\"\nMain Question: \"If today is Friday, what day is it in 5 days? Today is Friday, in 5 days it will be...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_175",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_176",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_177",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_178",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_179",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_180",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_181",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_182",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_183",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_184",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Divide 10 by 2. First, take 10 and divide it by 2. The result is 5.\"\nExample 2: \"Divide 20 by 4. First, take 20 and divide it by 4. The result is 5.\"\nMain Question: \"Divide 30 by 6. First, take 30 and divide it by 6. The result is...?"
+      }
+    ]
+  },
+  {
+    "id": "identity_200",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_201",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_202",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_203",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_204",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_205",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_206",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_207",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_208",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_209",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many edges does a cube have? A cube is a 3D shape with 6 faces, each being a square. Each square has 4 edges, but since each edge is shared between 2 faces, the total number of unique edges in a cube is 12.\"\nExample 2: \"How many edges does a tetrahedron have? A tetrahedron has 4 triangular faces. Each triangle has 3 edges, and since each edge is shared between 2 triangles, the tetrahedron has 6 unique edges.\"\nMain Question: \"How many edges does a pentagonal pyramid have? A pentagonal pyramid has a pentagonal base and triangular sides. The pentagon has 5 edges, and each triangle shares one edge with the pentagon, adding 5 more edges. So, how many total edges does a pentagonal pyramid have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_225",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_226",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_227",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_228",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_229",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_230",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_231",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_232",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_233",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_234",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 30 degrees Celsius to Fahrenheit. First, multiply 30 by 9/5 and then add 32. The result is 86\u00b0F.\"\nExample 2: \"Convert 20 degrees Celsius to Fahrenheit. First, multiply 20 by 9/5 and then add 32. The result is 68\u00b0F.\"\nMain Question: \"Convert 25 degrees Celsius to Fahrenheit. First, multiply 25 by 9/5 and then add 32. The result is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_250",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_251",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_252",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_253",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_254",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_255",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_256",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_257",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_258",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_259",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Calculate 2 + 2. First, add 2 and 2. The sum is 4.\"\nExample 2: \"Calculate 5 + 3. First, add 5 and 3. The sum is 8.\"\nMain Question: \"Calculate 7 + 6. First, add 7 and 6. The sum is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_275",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_276",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_277",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_278",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_279",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_280",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_281",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_282",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_283",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_284",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I have 5 apples and eat 2, how many are left? First, start with 5 apples, then subtract 2. You have 3 apples left.\"\nExample 2: \"If I have 10 apples and give away 4, how many are left? First, start with 10 apples, then subtract 4. You have 6 apples left.\"\nMain Question: \"If I have 8 apples and eat 3, how many are left? First, start with 8 apples, then subtract 3. You have...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_300",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_301",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_302",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_303",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_304",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_305",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_306",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_307",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_308",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_309",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Convert 10 kilometers to meters. 1 kilometer equals 1000 meters, so 10 kilometers equals 10,000 meters.\"\nExample 2: \"Convert 5 kilometers to meters. 1 kilometer equals 1000 meters, so 5 kilometers equals 5,000 meters.\"\nMain Question: \"Convert 15 kilometers to meters. 1 kilometer equals 1000 meters, so 15 kilometers equals...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_325",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_326",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_327",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_328",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_329",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_330",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_331",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_332",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_333",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_334",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If a batch of cookies takes 2 cups of sugar and you're making half a batch, how much sugar do you need? To find half, divide 2 cups by 2. Half of 2 cups is 1 cup.\"\nExample 2: \"If a cake recipe calls for 3 eggs and you double the recipe, how many eggs do you need? To double, multiply 3 by 2. Double 3 is 6.\"\nMain Question: \"If a pancake recipe needs 4 tablespoons of butter and you make one-third of a batch, how much butter do you need? To find one-third, divide 4 tablespoons by 3. One-third of 4 tablespoons is...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_350",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_351",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_352",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_353",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_354",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_355",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_356",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_357",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_358",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_359",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What phase of matter is water at 100\u00b0C? At 100\u00b0C, water boils and becomes a gas.\"\nExample 2: \"What phase of matter is water at 0\u00b0C? At 0\u00b0C, water freezes and becomes a solid.\"\nMain Question: \"What phase of matter is water at 25\u00b0C? At 25\u00b0C, water is a...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_375",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_376",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_377",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_378",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_379",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_380",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_381",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_382",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_383",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_384",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"Who was the first president of the United States? First, think of the founding of the United States, then remember that George Washington was the first president.\"\nExample 2: \"Who discovered penicillin? First, consider the history of medicine, then remember that Alexander Fleming discovered penicillin.\"\nMain Question: \"Who was the main author of the Declaration of Independence? First, recall the American Revolution, then identify the main author of the document.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_400",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_401",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_402",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_403",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_404",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_405",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_406",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_407",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_408",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_409",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the capital of France? First, think of the country France, then recall that Paris is its capital.\"\nExample 2: \"What is the capital of Japan? First, consider the country Japan, then remember that Tokyo is its capital.\"\nMain Question: \"What is the capital of Canada? First, think about the country Canada, then identify its capital city.\""
+      }
+    ]
+  },
+  {
+    "id": "identity_425",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_426",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_427",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_428",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_429",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_430",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_431",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_432",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_433",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_434",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"How many minutes are in 2 hours? There are 60 minutes in an hour, so in 2 hours, there are 120 minutes.\"\nExample 2: \"How many minutes are in 3 hours? There are 60 minutes in an hour, so in 3 hours, there are 180 minutes.\"\nMain Question: \"How many minutes are in 4 hours? There are 60 minutes in an hour, so in 4 hours, there are...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_450",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_451",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_452",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_453",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_454",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_455",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_456",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_457",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_458",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_459",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"If I save $200 a month, how much will I save in a year? Multiply 200 by 12: $200 * 12 = $2400.\"\nExample 2: \"If I save $300 a month, how much will I save in a year? Multiply 300 by 12: $300 * 12 = $3600.\"\nMain Question: \"If I save $500 a month, how much will I save in a year? Multiply 500 by 12: $500 * 12 =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_475",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_476",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_477",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_478",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_479",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_480",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_481",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_482",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_483",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  },
+  {
+    "id": "identity_484",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Example 1: \"What is the perimeter of a square with a side of 4 meters? Perimeter is 4 times the side, so 4 * 4 meters = 16 meters.\"\nExample 2: \"What is the perimeter of a square with a side of 5 meters? Perimeter is 4 times the side, so 5 * 4 meters = 20 meters.\"\nMain Question: \"What is the perimeter of a square with a side of 6 meters? Perimeter is 4 times the side, so 6 * 4 meters =...?\""
+      }
+    ]
+  }
+]

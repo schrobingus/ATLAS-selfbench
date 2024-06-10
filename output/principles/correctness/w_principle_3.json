@@ -1,0 +1,318 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the tens digit and unit digit of a number?"
+      },
+      {
+        "from": "human",
+        "value": "Identify the tens digit and unit digit of the following product: 725,278 * 67,066."
+      },
+      {
+        "from": "human",
+        "value": "Assign the tens digit to variable x and the unit digit to variable y."
+      },
+      {
+        "from": "human",
+        "value": "What is the value of x + y. Explain the easiest solution without calculating the whole number."
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If a giraffe has two eyes, a monkey has two eyes, and an elephant has two eyes"
+      },
+      {
+        "from": "human",
+        "value": "How many eyes do we have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How to calculate the number of specific letters in a string?"
+      },
+      {
+        "from": "human",
+        "value": "What are the capital and small letters of \"a\" and \"b\""
+      },
+      {
+        "from": "human",
+        "value": "What is the total number of a\u2019s and b\u2019s in this string?\n given string: \"a B a a a c b b a b b a B B bb c a d e a b b b b b b b b b b b d a a a a a d f g a a d A A B B B \""
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many letters are in the word \"bananas\"?"
+      },
+      {
+        "from": "human",
+        "value": "List them."
+      },
+      {
+        "from": "human",
+        "value": "How many \"s\" it contains?"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What would happen if you replaced the thymine in a double helix with radioactive thymine and allowed DNA replication to occur once"
+      },
+      {
+        "from": "human",
+        "value": "Which of the following results would you expect? Choices: A: The DNA would not be radioactive in either of the double helices. B: The mRNA made from the double helices would be radioactive. C: The DNA in each of the double helices would be radioactive. D: The DNA in one of the double helices would be radioactive but not in the other one"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is Mable was alive when her heart rate at 9 AM was 75 bpm and her blood pressure at 7 PM was 120/80."
+      },
+      {
+        "from": "human",
+        "value": "If She died at 11 PM. Was she alive at noon?"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How to count the number of words in a response?"
+      },
+      {
+        "from": "human",
+        "value": "Write a response that includes the number of words in your response"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Baez has 25 marbles. She loses 20% of them one day. How much he has now?"
+      },
+      {
+        "from": "human",
+        "value": "Then a friend sees her and gives her double the amount that Baez has after she loses them. How many marbles does Baez end up with"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a country where everyone is identical, 100 people wait in line each day to buy raspberries at a controlled price. The government has decided to hand out free coffee to the people standing in line."
+      },
+      {
+        "from": "human",
+        "value": "The coffee costs the government $1 per cup, but the people in line value that coffee at only 75 cents per cup. What is the social cost of providing the coffee?"
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Seven cards are placed on the table, each of which has a number on one side and a single-colored patch on the other side. The faces of the cards show 50, 16, red, yellow, 23, green, 30."
+      },
+      {
+        "from": "human",
+        "value": "Which cards are multiple of 4 and yellow?"
+      },
+      {
+        "from": "human",
+        "value": "Which cards would you have to turn to test the truth of the proposition that if a card is showing a multiple of 4 then the color of the opposite side is yellow?"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the smallest positive integer number?"
+      },
+      {
+        "from": "human",
+        "value": "What is the smallest positive integer solution to \\( \\left( \\frac{100,000,000}{x^4} \\right) < 1 \\)?"
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the greatest and least common divisor?"
+      },
+      {
+        "from": "human",
+        "value": "If the greatest common divisor of positive integers m and n is 6. The least common multiple of m and n is 126. What is the least possible value of m + n?"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Let k(u) = u**2+u-4. how the equation will be changed if we substitute a value for K?"
+      },
+      {
+        "from": "human",
+        "value": "Find k (0)."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Calculate 4 - 4 - 4"
+      },
+      {
+        "from": "human",
+        "value": "Equate the result with = 188*m and solve for m"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Suppose \\( a \\) and \\( b \\) are positive real numbers with \\( a > b \\) and \\( ab = 8 \\)."
+      },
+      {
+        "from": "human",
+        "value": "Find the minimum value of \\( \\frac{a^2 + b^2}{a - b} \\)."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many letters are in the word blueberry?"
+      },
+      {
+        "from": "human",
+        "value": "List them"
+      },
+      {
+        "from": "human",
+        "value": "Where is the letter r in the word blueberry?"
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Sally (a girl) has 4 brothers. Each brother has 3 sisters."
+      },
+      {
+        "from": "human",
+        "value": "How many sisters does Sally have?"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Research Gordon Ramsey's professional background."
+      },
+      {
+        "from": "human",
+        "value": "Identify if Gordon Ramsey has any educational or professional experience related to chemistry or science."
+      },
+      {
+        "from": "human",
+        "value": "Does Gordon Ramsey know about solubility?"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the geographical location of Canada."
+      },
+      {
+        "from": "human",
+        "value": "Identify the geographical location of the Arctic Ocean."
+      },
+      {
+        "from": "human",
+        "value": "Determine the relative positions of Canada and the Arctic Ocean."
+      },
+      {
+        "from": "human",
+        "value": "Is Canada south of the Arctic Ocean?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Apply the first step of the Porter stemming algorithm to 'computational'."
+      },
+      {
+        "from": "human",
+        "value": "Apply subsequent steps of the algorithm until the final stem is derived."
+      }
+    ]
+  }
+]

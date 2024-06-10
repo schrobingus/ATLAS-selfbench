@@ -1,0 +1,422 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find the answer of 40/4"
+      },
+      {
+        "from": "human",
+        "value": "Then add 9"
+      },
+      {
+        "from": "human",
+        "value": "Then subtract  2"
+      },
+      {
+        "from": "human",
+        "value": "Then subtract  1"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Distribute the negative sign to each term inside the parentheses of the following equation: 2x + 3y - (4x - 5y)"
+      },
+      {
+        "from": "human",
+        "value": "Combine like terms for 'x' and 'y' separately."
+      },
+      {
+        "from": "human",
+        "value": "Provide the simplified expression after combining the terms."
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Provide an overview of diabetes and its impact on blood sugar levels to the patient."
+      },
+      {
+        "from": "human",
+        "value": "Continue Explaining the importance of managing blood sugar for overall health."
+      },
+      {
+        "from": "human",
+        "value": "Continue Explaining how carbohydrate intake affects blood sugar levels."
+      },
+      {
+        "from": "human",
+        "value": "Suggest dietary guidelines, portion control, and healthier food choices."
+      },
+      {
+        "from": "human",
+        "value": "Describe the benefits of regular physical activity for diabetes management."
+      },
+      {
+        "from": "human",
+        "value": "Recommend suitable exercises, frequency, and precautions."
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Differentiate the term 3x^2 with respect to x."
+      },
+      {
+        "from": "human",
+        "value": "Differentiate the term -2x concerning x."
+      },
+      {
+        "from": "human",
+        "value": "Differentiate the constant term 5 concerning x."
+      },
+      {
+        "from": "human",
+        "value": "Combine the results to express the derivative of the function f(x)."
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much does it cost to buy 5 apples at 40 cents each?"
+      },
+      {
+        "from": "human",
+        "value": "What is the total cost for 3 loaves of bread at $2.10 each and 2 cartons of milk at $3.25 each?"
+      },
+      {
+        "from": "human",
+        "value": "Calculate the total cost of all of them"
+      },
+      {
+        "from": "human",
+        "value": "What is the cost after applying a 1.50$ discount?"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a short story about a character who discovers an old, mysterious book that grants them extraordinary powers. first: Introduce the protagonist, ordinary life, and setting."
+      },
+      {
+        "from": "human",
+        "value": "Describe discovering the book and the character's growing powers"
+      },
+      {
+        "from": "human",
+        "value": "Present challenges from powers and character's growth."
+      },
+      {
+        "from": "human",
+        "value": "Resolve conflicts, and show the character's reflection on the journey."
+      },
+      {
+        "from": "human",
+        "value": "Write the short story"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For this quadratic equation x^2 - 4x + 3 = 0, Identify the coefficients a, b, and c"
+      },
+      {
+        "from": "human",
+        "value": "Calculate the values of the roots using the quadratic formula"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the impact of climate change on marine ecosystems."
+      },
+      {
+        "from": "human",
+        "value": "Discuss how rising temperatures affect marine species and habitats."
+      },
+      {
+        "from": "human",
+        "value": "Highlight the broader ecological implications for biodiversity loss."
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the concepts of classical conditioning and operant conditioning."
+      },
+      {
+        "from": "human",
+        "value": "Describe the key elements of classical conditioning, including unconditioned stimulus and response"
+      },
+      {
+        "from": "human",
+        "value": "Explain operant conditioning, emphasizing reinforcement and punishment."
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "calculate the product of 4 multiplied by 5."
+      },
+      {
+        "from": "human",
+        "value": "Subtract 1 from the result"
+      },
+      {
+        "from": "human",
+        "value": "Add 10 to the result"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The base and height of the triangle are 4 and 8"
+      },
+      {
+        "from": "human",
+        "value": "Recall the formula for the area of a triangle using base and height."
+      },
+      {
+        "from": "human",
+        "value": "Substitute the values into the formula and calculate the area."
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the location and size of the Amazon rainforest."
+      },
+      {
+        "from": "human",
+        "value": "Discuss the type of climate in the Amazon."
+      },
+      {
+        "from": "human",
+        "value": "Describe the biodiversity found in the Amazon."
+      },
+      {
+        "from": "human",
+        "value": "Mention any unique water systems or rivers present"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "State Newton's third law of motion."
+      },
+      {
+        "from": "human",
+        "value": "Describe what happens to the air inside a balloon when it's released."
+      },
+      {
+        "from": "human",
+        "value": "Relate the expulsion of air to the movement of the balloon."
+      },
+      {
+        "from": "human",
+        "value": "Conclude how the balloon's movement demonstrates the law."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the components of blood."
+      },
+      {
+        "from": "human",
+        "value": "Explain the role of platelets in clot formation."
+      },
+      {
+        "from": "human",
+        "value": "Discuss the chemical signals that initiate the clotting cascade."
+      },
+      {
+        "from": "human",
+        "value": "Describe the final steps of clot formation and stabilization."
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Define the critical angle in the context of refraction."
+      },
+      {
+        "from": "human",
+        "value": "Explain the conditions under which total internal reflection occurs."
+      },
+      {
+        "from": "human",
+        "value": "Discuss the behavior of light rays during total internal reflection."
+      },
+      {
+        "from": "human",
+        "value": "List practical applications of total internal reflection, such as in fiber optics"
+      },
+      {
+        "from": "human",
+        "value": "List practical applications of total internal reflection, such as in fiber optics"
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "State Newton's second law."
+      },
+      {
+        "from": "human",
+        "value": "Define each variable: force (F), mass (m), and acceleration (a)."
+      },
+      {
+        "from": "human",
+        "value": "Discuss the direct proportionality between force and acceleration"
+      },
+      {
+        "from": "human",
+        "value": "Explain how mass inversely affects acceleration."
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Define what vitamins are and list their types."
+      },
+      {
+        "from": "human",
+        "value": "Explain the importance of vitamins for metabolic processes."
+      },
+      {
+        "from": "human",
+        "value": "Highlight specific diseases or conditions linked to vitamin deficiencies."
+      },
+      {
+        "from": "human",
+        "value": "Discuss recommended daily allowances and sources of essential vitamins"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Define preventive care and its main components."
+      },
+      {
+        "from": "human",
+        "value": "Explain the concept of early detection and why it's crucial."
+      },
+      {
+        "from": "human",
+        "value": "Highlight specific diseases that can be managed or prevented with early detection"
+      },
+      {
+        "from": "human",
+        "value": "Discuss the long-term health and economic benefits of regular check-ups."
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Calculate 10% of $20."
+      },
+      {
+        "from": "human",
+        "value": "Subtract the discount from the original price."
+      },
+      {
+        "from": "human",
+        "value": "State the final price."
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recall the formula for the area of a rectangle."
+      },
+      {
+        "from": "human",
+        "value": "Plug in the given length 5."
+      },
+      {
+        "from": "human",
+        "value": "Plug in the given width 3 and compute."
+      }
+    ]
+  }
+]

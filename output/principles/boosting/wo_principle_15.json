@@ -1,0 +1,202 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the KVL Law?"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the steps of the quadratic formula for solving quadratic equations?"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "what is the law of conservation of energy?"
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the concept of exponential growth."
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the components of the cardiovascular system and their functions."
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the immune system's response to infections."
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the encryption and its role in cybersecurity?"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the differences between LANs and WANs in computer networks."
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the concept of artificial intelligence and its applications."
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the principles of supply and demand?"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the water cycle in a few words."
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is conditional probability in probability theory?"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Walk me through the process of solving systems of linear equations using the substitution method."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the principles of finding the area of a circle."
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain the concept of limits in calculus."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the basic electronic components?"
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the concept of cybersecurity threats and their potential consequences?"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the differences between digital and analog signals in communication systems?"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the machine learning algorithms and their applications in real-world problems?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What are the basics of mental health and self-care practices?"
+      }
+    ]
+  }
+]

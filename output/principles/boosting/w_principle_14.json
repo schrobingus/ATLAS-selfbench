@@ -1,0 +1,374 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  }
+]

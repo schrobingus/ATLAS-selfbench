@@ -1,0 +1,202 @@
+[
+  {
+    "id": "identity_0",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If x and y are the tens digit and the units digit, respectively, of the product 725,278 * 67,066, what is the value of x + y? Explain the easiest solution without calculating the whole number."
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If a giraffe has two eyes, a monkey has two eyes, and an elephant has two eyes, how many eyes do we have? Do not answer in a detailed way."
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the total number of a\u2019s and b\u2019s in this string? Do not provide a brief answer\n given string: \"a B a a a c b b a b b a B B bb c a d e a b b b b b b b b b b b d a a a a a d f g a a d A A B B B \""
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many \"s\" in \"bananas\"? Do not count other letters"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If you replaced the thymine in a double helix with radioactive thymine and you allowed DNA replication to occur once, which of the following results would you expect? Choices: A: The DNA would not be radioactive in either of the double helices. B: The mRNA made from the double helices would be radioactive. C: The DNA in each of the double helices would be radioactive. D: The DNA in one of the double helices would be radioactive but not in the other one. Do not provide an explanation"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Mable\u2019s heart rate at 9 AM was 75 bpm and her blood pressure at 7 PM was 120/80. She died at 11 PM. Was she not alive at noon?"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Write a response but don\u2019t exclude the count of words in it."
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Baez has 25 marbles. She loses 20% of them one day. Then a friend sees her and gives her double the amount that Baez has after she lost them. Do not ignore counting how many marbles does Baez end up with."
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a country where everyone is identical, 100 people wait in line each day to buy raspberries at a controlled price. The government has decided to hand out free coffee to the people standing in line. The coffee costs the government $1 per cup, but the people in line value that coffee at only 75 cents per cup. Do not ignore counting what is the social cost of providing the coffee."
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Seven cards are placed on the table, each of which has a number on one side and a single-colored patch on the other side. The faces of the cards are 3, 8, red, and yellow. Which cards you should have not to turn to test the truth of the proposition that if a card shows an even number on one face, then the opposite face is red?"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What should be the least positive integer value of x to avoid \\( \\left( \\frac{100,000,000}{x^4} \\right) \\) being equal to or greater than 1?"
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What should be the minimum possible value for the sum of m and n, without violating the conditions that their greatest common divisor is 6 and their least common multiple is 126?"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Don't leave out the evaluation of k (0) for k(u) = u**2 + u - 4."
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Don't neglect to solve for m in the equation 4 - 4 - 4 = 188*m"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not consider the specific values of \\( a \\) and \\( b \\) but find the minimum value of \\( \\frac{a^2 + b^2}{a - b} \\), knowing that \\( a \\) and \\( b \\) are positive real numbers with \\( a > b \\) and \\( ab = 8 \\)."
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine where the letter r did not appear in the word blueberry."
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Sally (a girl) has 4 brothers. Each brother has 3 sisters. Explain without going into the details how many sisters Sally has."
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does Gordon Ramsey know about solubility? Without going into the details"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Isn't Canada north of the Arctic Ocean?"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the word \"computational\" retain its original form when stemmed using the Porter stemmer?"
+      }
+    ]
+  }
+]
