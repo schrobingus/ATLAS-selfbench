@@ -1,6 +1,136 @@
 [
   {
-    "id": "identity_0",
+    "id": "identity_1",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
     "model": "gpt4",
     "conversations": [
       {
@@ -31,6 +161,370 @@
     "conversations": [
       {
         "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_10",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_11",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_12",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_13",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_15",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_16",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_17",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_18",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_19",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_20",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "from now and on I want you to ask me questions till you have enough information to generate the output. the question is to write a python code to read an image."
+      },
+      {
+        "from": "human",
+        "value": "OpenCv"
+      },
+      {
+        "from": "human",
+        "value": "display it"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
         "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
       },
       {
@@ -40,7 +534,343 @@
     ]
   },
   {
-    "id": "identity_14",
+    "id": "identity_22",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_23",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_24",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_25",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_26",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_27",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_29",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_30",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_31",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_32",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_33",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_34",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_36",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_37",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_38",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_39",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_40",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm planning a week-long vacation, and I need some help with the details. Can you ask me questions to understand my preferences and requirements and suggest places to go?"
+      },
+      {
+        "from": "human",
+        "value": "1- beach  2-water sports  3-unique   4- 100 dollar  5-family  6- no 7- no 8-less crowded 9-no 10 -no"
+      }
+    ]
+  },
+  {
+    "id": "identity_41",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_43",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_44",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_45",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_46",
     "model": "gpt4",
     "conversations": [
       {
@@ -54,7 +884,273 @@
     ]
   },
   {
-    "id": "identity_21",
+    "id": "identity_47",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_48",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_50",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_51",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_52",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_53",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_54",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_55",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_57",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_58",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_59",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_60",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help me create engaging social media posts. Ask me questions to understand my target audience, platform, and content style."
+      },
+      {
+        "from": "human",
+        "value": "1- female age 10  2- Instagram 3- education 4- no  5- likes"
+      }
+    ]
+  },
+  {
+    "id": "identity_61",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_62",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_64",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_65",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_66",
     "model": "gpt4",
     "conversations": [
       {
@@ -68,7 +1164,273 @@
     ]
   },
   {
-    "id": "identity_28",
+    "id": "identity_67",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_68",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_69",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_71",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_72",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_73",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_74",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_75",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_76",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_78",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_79",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_80",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, I would like you to ask me questions to help me plan a birthday party"
+      },
+      {
+        "from": "human",
+        "value": "1-  Friday evening  2- home 3- 20 4- no  5- digitally 6- cake 7- nothing 8- dj 9- no 10-no "
+      }
+    ]
+  },
+  {
+    "id": "identity_81",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_82",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_83",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_85",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_86",
     "model": "gpt4",
     "conversations": [
       {
@@ -82,7 +1444,453 @@
     ]
   },
   {
-    "id": "identity_35",
+    "id": "identity_87",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_88",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_89",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_90",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_92",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_93",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_94",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_95",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_96",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_97",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_99",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_100",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for healthy recipes. From now on ask me questions about my dietary preferences and any ingredients I have on hand till you have enough information to create a recipe."
+      },
+      {
+        "from": "human",
+        "value": "1,2,3,4,5,6,7- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_101",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_102",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_103",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_104",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_106",
     "model": "gpt4",
     "conversations": [
       {
@@ -132,7 +1940,777 @@
     ]
   },
   {
-    "id": "identity_42",
+    "id": "identity_107",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_108",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_109",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_110",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_111",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_113",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_114",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_115",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_116",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_117",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_118",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_120",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now and on I want you to ask me questions till you have enough information to suggestions for a perfect gift."
+      },
+      {
+        "from": "human",
+        "value": "friend"
+      },
+      {
+        "from": "human",
+        "value": "creative"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cooking"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "50 dollar, no"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "cookbook"
+      }
+    ]
+  },
+  {
+    "id": "identity_121",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_122",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_123",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_124",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_125",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
     "model": "gpt4",
     "conversations": [
       {
@@ -146,7 +2724,273 @@
     ]
   },
   {
-    "id": "identity_49",
+    "id": "identity_127",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_128",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_129",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_130",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_131",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_132",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_134",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_135",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_136",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_137",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_138",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_139",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_140",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From now on, Ask me questions until you have enough information to create a personalized fitness routine."
+      },
+      {
+        "from": "human",
+        "value": "1- 22 female, height 166 and weight 55 2- 0 3- nothing 4- no 5- yes 6- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_141",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_142",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_143",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_144",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_145",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_146",
     "model": "gpt4",
     "conversations": [
       {
@@ -160,7 +3004,273 @@
     ]
   },
   {
-    "id": "identity_56",
+    "id": "identity_147",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_148",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_149",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_150",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_151",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_152",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_153",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_154",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_155",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_156",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_157",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_158",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_159",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_160",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'd like your assistance in planning a surprise date. Ask me questions until you have enough details to suggest a memorable experience."
+      },
+      {
+        "from": "human",
+        "value": "1- swimming, pizza 2- outdoor 3- not specified 4- no 5- no"
+      }
+    ]
+  },
+  {
+    "id": "identity_161",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_162",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_163",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_164",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_165",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_166",
     "model": "gpt4",
     "conversations": [
       {
@@ -174,7 +3284,273 @@
     ]
   },
   {
-    "id": "identity_63",
+    "id": "identity_167",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_168",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_169",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_170",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_171",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_172",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_173",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_174",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_175",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_176",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_177",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_178",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_179",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_180",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you have enough details to help me choose the ideal destination for a weekend getaway."
+      },
+      {
+        "from": "human",
+        "value": "1- culture 2- no 3- 50$ 4- hotel 5- no 6- no 7- no 8-alone 9-no 10 -this is my first time of traviling"
+      }
+    ]
+  },
+  {
+    "id": "identity_181",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_182",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_183",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_184",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_185",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_186",
     "model": "gpt4",
     "conversations": [
       {
@@ -188,7 +3564,333 @@
     ]
   },
   {
-    "id": "identity_70",
+    "id": "identity_187",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_188",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_189",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_190",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_191",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_192",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_193",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_194",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_195",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_196",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_197",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_198",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_199",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_200",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm looking for a new hobby. Ask me questions until you've gathered enough insights to recommend activities that align with my interests."
+      },
+      {
+        "from": "human",
+        "value": "1- indoor 2- relax 3-alone 4-hoppy 5- casual"
+      }
+    ]
+  },
+  {
+    "id": "identity_201",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_202",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_203",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_204",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_205",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_206",
     "model": "gpt4",
     "conversations": [
       {
@@ -214,7 +3916,441 @@
     ]
   },
   {
-    "id": "identity_77",
+    "id": "identity_207",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_208",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_209",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_210",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_211",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_212",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_213",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_214",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_215",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_216",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_217",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_218",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_219",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_220",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you have enough information to suggest a personalized skincare routine for my skin type."
+      },
+      {
+        "from": "human",
+        "value": "dry and hot climate"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "sensitive, blackheads"
+      },
+      {
+        "from": "human",
+        "value": "i dont use routine, no"
+      }
+    ]
+  },
+  {
+    "id": "identity_221",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_222",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_223",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_224",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_225",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_226",
     "model": "gpt4",
     "conversations": [
       {
@@ -228,7 +4364,293 @@
     ]
   },
   {
-    "id": "identity_84",
+    "id": "identity_227",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_228",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_229",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_230",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_231",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_232",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_233",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_234",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_235",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_236",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_237",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_238",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_239",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_240",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment on, ask me questions until you have enough details to create a customized study plan that suits my learning style."
+      },
+      {
+        "from": "human",
+        "value": "1-  English ielts 2- 5 .5  3- course 4- 15 5- home 6- time 7-no 8-no"
+      }
+    ]
+  },
+  {
+    "id": "identity_241",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_242",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_243",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_244",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_245",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_246",
     "model": "gpt4",
     "conversations": [
       {
@@ -246,7 +4668,329 @@
     ]
   },
   {
-    "id": "identity_91",
+    "id": "identity_247",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_248",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_249",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_250",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_251",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_252",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_253",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_254",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_255",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_256",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_257",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_258",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_259",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_260",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I'd like you to ask me questions until you've gathered enough information to help me choose an ideal online course."
+      },
+      {
+        "from": "human",
+        "value": "i don't have specifications"
+      },
+      {
+        "from": "human",
+        "value": "1- improve my AI knowledge 2- programming 3- intermediate"
+      }
+    ]
+  },
+  {
+    "id": "identity_261",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_262",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_263",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_264",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_265",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_266",
     "model": "gpt4",
     "conversations": [
       {
@@ -260,7 +5004,253 @@
     ]
   },
   {
-    "id": "identity_98",
+    "id": "identity_267",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_268",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_269",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_270",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_271",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_272",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_273",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_274",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_275",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_276",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_277",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_278",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_279",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_280",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From this moment forward, ask me questions until you've gathered enough information to suggest a creative theme for my upcoming party."
+      },
+      {
+        "from": "human",
+        "value": "1- summer 2- restaurant 3- no 4- yellow 5- 20"
+      }
+    ]
+  },
+  {
+    "id": "identity_281",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_282",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_283",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_284",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_285",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_286",
     "model": "gpt4",
     "conversations": [
       {
@@ -270,7 +5260,197 @@
     ]
   },
   {
-    "id": "identity_105",
+    "id": "identity_287",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_288",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_289",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_290",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_291",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_292",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_293",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_294",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_295",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_296",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_297",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_298",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_299",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_300",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning here, I'd like you to ask me questions until you've gathered enough information to assist me in writing a captivating short story."
+      }
+    ]
+  },
+  {
+    "id": "identity_301",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_302",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_303",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_304",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_305",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_306",
     "model": "gpt4",
     "conversations": [
       {
@@ -280,7 +5460,357 @@
     ]
   },
   {
-    "id": "identity_112",
+    "id": "identity_307",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_308",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_309",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_310",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_311",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_312",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_313",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_314",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_315",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_316",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_317",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_318",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_319",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_320",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Gather information by asking me questions until you've gathered enough details to suggest a personalized morning routine."
+      }
+    ]
+  },
+  {
+    "id": "identity_321",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_322",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_323",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_324",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_325",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_326",
     "model": "gpt4",
     "conversations": [
       {
@@ -322,8 +5852,1546 @@
     ]
   },
   {
-    "id": "identity_119",
+    "id": "identity_327",
     "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_328",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_329",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_330",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_331",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_332",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_333",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_334",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_335",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_336",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_337",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_338",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_339",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_340",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Starting here, I want you to ask me questions until you have enough information to help me choose the right programming language for my project."
+      },
+      {
+        "from": "human",
+        "value": "web"
+      },
+      {
+        "from": "human",
+        "value": "full"
+      },
+      {
+        "from": "human",
+        "value": "open"
+      },
+      {
+        "from": "human",
+        "value": "beginner"
+      },
+      {
+        "from": "human",
+        "value": "small scale"
+      },
+      {
+        "from": "human",
+        "value": "provide more benefit"
+      },
+      {
+        "from": "human",
+        "value": "api"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "identity_341",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_342",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_343",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_344",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_345",
+    "model": "ollama/gemma:2b",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_346",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_347",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_348",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_349",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_350",
+    "model": "gpt4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_351",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_352",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_353",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_354",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_355",
+    "model": "ollama/phi3",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_356",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_357",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_358",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_359",
+    "model": "gpt-3.5-turbo",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Beginning now, ask me questions until you've gathered enough information to recommend the perfect destination for a family vacation."
+      },
+      {
+        "from": "human",
+        "value": "7"
+      },
+      {
+        "from": "human",
+        "value": "relaxation"
+      },
+      {
+        "from": "human",
+        "value": "mid-range"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "warm"
+      },
+      {
+        "from": "human",
+        "value": "no"
+      },
+      {
+        "from": "human",
+        "value": "popular"
+      },
+      {
+        "from": "human",
+        "value": "1 week"
+      },
+      {
+        "from": "human",
+        "value": "yes"
+      },
+      {
+        "from": "human",
+        "value": "both"
+      }
+    ]
+  },
+  {
+    "id": "identity_360",
+    "model": "gpt-3.5-turbo",
     "conversations": [
       {
         "from": "human",

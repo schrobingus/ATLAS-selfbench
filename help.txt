@@ -5,6 +5,8 @@ ATLAS Self-Benchmark by Brent Monning
  -o: Selects the output data directory. This is set to
      'output' in this repository. A new directory is
      created if one does not exist.
+ -r: Sets the amount of times a conversation should be tested
+     per model. 
  -p: Selects the principle numbers you want to use. These, 
      by the default submodule included, goes from principle 1 
      to principle 26.

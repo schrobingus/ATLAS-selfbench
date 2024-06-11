@@ -1,4 +1,5 @@
 import os, sys
+import copy
 from typing import Any, Dict, List
 import json
 
@@ -24,29 +25,34 @@ def define_structure(input_dir: str, output_dir: str, principles: List[str], cat
     return templates_needed
 
 def create_template(input_dir: str, output_dir: str, models_to_use: List[str], template_needed: str) -> None:
-    template_loaded = open(f"{input_dir}/{template_needed}", "r")
-    template = json.loads(template_loaded.read())
-    template_loaded.close()
+    with open(f"{input_dir}/{template_needed}", "r") as file:
+        template_base = json.load(file)
     model_base = "gpt4"
-    for conversation in reversed(range(len(template))):
-        if template[conversation]["model"] != model_base:
-            template.pop(conversation)
+    prompts_used = []
+    for conv in reversed(template_base):
+        if conv["model"] != model_base or conv["conversations"][0]["value"] in prompts_used:
+            template_base.remove(conv)
         else:
-            for message in reversed(range(len(template[conversation]["conversations"]))):
-                if template[conversation]["conversations"][message]["from"] == "gpt":
-                    template[conversation]["conversations"].pop(message)
-    template_to_save = open(f"{output_dir}/{template_needed}", "w")
-    template_saved = json.dump(template, template_to_save, indent=2)
-    template_to_save.close()
+            prompts_used.insert(-1, conv["conversations"][0]["value"])
+            conv["conversations"] = [msg for msg in conv["conversations"] if msg["from"] != "gpt"]
+    template: List[Dict[str, Any]] = []
+    template = [
+        {**copy.deepcopy(conv_raw), "model": model, "id": f"identity_{conv_id+1}"}
+        for conv_id, (conv_raw, model, _) in enumerate(
+            (conv_raw, model, _) for conv_raw in template_base for model in models_to_use for _ in range(repeats)
+        )
+    ]
+    with open(f"{output_dir}/{template_needed}", "w") as template_dumped:
+        json.dump(template, template_dumped, indent=2)
 
 if __name__ == '__main__':
     option: str = ''
     input_dir: str = r'atlas/data'
     output_dir: str = r'output'
+    repeats: int = 5
     principles: List[int] = list(range(1, 27))
     categories: List[str] = ['boosting', 'correctness']
-    models_to_use: List[str] = ['ollama/gemma:2b', 'gpt4', 'ollama/phi3', 'gpt-3.5-turbo'] 
-    # TODO: minimize `models_to_use` to gpt4 or so later on
+    models_to_use: List[str] = ['ollama/gemma:2b', 'gpt4', 'ollama/phi3', 'gpt-3.5-turbo']
     if len(sys.argv) > 1:
         if '-p' in sys.argv:
             principles = []
@@ -54,25 +60,25 @@ if __name__ == '__main__':
             categories = []
         for arg in range(1, len(sys.argv)):
             if sys.argv[arg][0] == "-":
-                match sys.argv[arg]:
-                    case '-h':
-                        help_doc = open("help.txt", "r")
+                if sys.argv[arg] == '-h':
+                    with open("help.txt", "r") as help_doc:
                         print(help_doc.read())
-                        help_doc.close()
-                        exit()
-                    case _:
-                        option = sys.argv[arg]
+                    exit()
+                else:
+                    option = sys.argv[arg]
             else:
                 match option:
                     case '-i':
                         input_dir = sys.argv[arg]
                     case '-o':
                         output_dir = sys.argv[arg]
+                    case '-r':
+                        repeats = int(sys.argv[arg])
                     case '-p':
                         principles.append(int(sys.argv[arg]))
                     case '-c':
                         categories.append(sys.argv[arg])
-                    case '-h':
+                    case '-m':
                         models_to_use.append(sys.argv[arg])
     template_ids = define_structure(input_dir, output_dir, principles, categories)
     for template in template_ids:
